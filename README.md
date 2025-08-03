@@ -28,10 +28,10 @@ My primary goal is to create meaningful value for both our families and our live
 
 ## 🎯 Benefits of This Collaboration
 
-*Maintain Your Flexibility: You can keep your current job and lifestyle without any disruptions.
-*Lighter Workload: We’ll share responsibilities, so you can enjoy a more manageable workload.
-*Extra Income: Earn additional income without needing to handle coding or development tasks.
-*Professional Growth: Gain exposure to new technologies, industries, and international collaboration.
+- Maintain Your Flexibility: You can keep your current job and lifestyle without any disruptions.
+- Lighter Workload: We’ll share responsibilities, so you can enjoy a more manageable workload.
+- Extra Income: Earn additional income without needing to handle coding or development tasks.
+- Professional Growth: Gain exposure to new technologies, industries, and international collaboration.
 ---
 
 
