@@ -20,7 +20,9 @@ I am seeking a U.S.-based software engineer with strong development experience, 
 
 ## 🎯 Purpose of Collaboration
 
-My primary goal is to create meaningful value for both our families and our lives by collaborating on high-impact projects and securing long-term contracts with U.S. clients and companies. Ultimately, I hope this partnership can evolve into building a new business together—whether it’s an IT consulting and development firm or launching our own innovative venture, such as an AI or blockchain service.
+- My primary goal is to create meaningful value for both our families and our lives by collaborating on high-impact projects and securing long-term contracts with U.S. clients and companies. 
+- The U.S. market offers great compensation and opportunities, but many companies require developers to be U.S. citizens or residents. By partnering with a qualified U.S. software engineer, we can meet these requirements and unlock more business potential.
+- Ultimately, I hope this partnership can evolve into building a new business together—whether it’s an IT consulting and development firm or launching our own innovative venture, such as an AI or blockchain service.
 
 ---
 
@@ -97,6 +99,7 @@ By managing all payment methods, you retain full control over the financial proc
 
 | Platform | Handle | Status |
 |----------|--------|--------|
+| **Email** | `crowncodeman@gmail.com` | ✅ Active |
 | **Telegram** | `@crowncodeman` | ✅ Active |
 | **Discord** | `@crowncodeman` | ✅ Active |
 
